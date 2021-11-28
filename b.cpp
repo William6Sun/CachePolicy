@@ -2,7 +2,8 @@
 using namespace std;
 int main()
 {
-  cout << "Hello Git" << endl;
+  cout << "Hello world, git learning\n";
+  cout << "haha" << std::endl;
   return 0;
 }
 
