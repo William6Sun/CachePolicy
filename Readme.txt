@@ -1,11 +1,4 @@
-xxx Git
-test git diff ...
-change
-333333333333
-444555
-666666
-777777
-999999
-000000
-aaaaaa
-learn feature3
+Read High Performance Cache Replacement Policy:
+1, LRU
+2, PLRU
+3, DRIIP

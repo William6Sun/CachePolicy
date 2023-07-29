@@ -1,3 +1,0 @@
-first git reset --mixed
-add line2
-add line3
